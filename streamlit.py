@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Gestão da Manutenção", layout="wide")
 
-caminho = r"C:\Users\elois\gestao_manutencao\manutencao.txt"
+caminho = "manutencao.txt"
 
 @st.cache_data
 def ler_manutencao(caminho):
