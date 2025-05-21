@@ -1,0 +1,33 @@
+[Corte Laser]
+PREVENTIVA:
+    DIÁRIA:
+        - Verificar nível de óleo
+        - Checar sistema de ventilação
+    SEMANAL:
+        - Verificar correias
+        - Apertar parafusos
+PREDITIVA:
+    - Monitorar vibração
+    - Monitorar temperatura
+CORRETIVA:
+    - Substituir motor queimado
+    - Realinhar eixo principal
+
+[Chiller]
+PREVENTIVA:
+    DIÁRIA:
+        - Verificar nível de óleo
+        - Checar sistema de ventilação
+    SEMANAL:
+        - Verificar correias
+        - Apertar parafusos
+    MENSAL:
+        - Trocar filtro de óleo
+        - Testar sensor de pressão
+    ANUAL:
+        - XXXXXX
+PREDITIVA:
+    - Analisar consumo de energia
+CORRETIVA:
+    - Consertar vazamento hidráulico
+
