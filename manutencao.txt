@@ -1,4 +1,4 @@
-[Corte]
+[Corte Laser]
 INFORMAÇÕS_GERAIS:
     - Máquina Mafran MF 9060
 PREVENTIVA:
