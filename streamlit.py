@@ -61,8 +61,11 @@ else:
     else:
         instrucoes = dados_manutencao[maquina][tipo]
         st.subheader(f"{maquina} - {tipo}")
-
-    st.markdown("### Instruções")
+    if tipo != "INFORMAÇÕS GERAIS": 
+        st.markdown("### Instruções")
+    else:
+        st.markdown("### Informações")  
+        
     for item in instrucoes:
         st.markdown(f"- {item}")
 
