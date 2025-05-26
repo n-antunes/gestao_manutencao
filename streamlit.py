@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Gestão da Manutenção", layout="wide")
+st.set_page_config(page_icon=:gear:, page_title="Gestão da Manutenção", layout="wide")
 
 caminho = "manutencao.txt"
 
