@@ -1,7 +1,6 @@
 [Corte Laser]
 INFORMAÇÕS GERAIS:
     - Máquina Mafran MF 9060
-    - 
 PREVENTIVA:
     DIÁRIA:
         - Verificar nível de óleo
