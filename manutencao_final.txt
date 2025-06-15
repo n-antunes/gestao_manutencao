@@ -35,21 +35,21 @@ CORRETIVA:
     - Substituição após rompimento
     - Substituição do motor após falha na inicialização
 PROCEDIMENTOS DE MANUTENÇÃO:
-    - SISTEMA ÓPTICO:
+    - SISTEMA ÓPTICO
 	- Limpar com álcool isopropílico e cotonete
 	- Alinhar manualmente com testes de feixe
     - SISTEMA DE MOVIMENTAÇÃO
 	- Lubrificar trilhos com óleo específico
 	- Substituir correias com desgaste visível
-    - SISTEMA DE EXAUSTÃO:
+    - SISTEMA DE EXAUSTÃO
 	- Remover e limpar filtros com ar comprimido
 	- Inspecionar obstruções nos dutos
 	- Lavar a coifa
-    - SISTEMA PNEUMÁTICO:
+    - SISTEMA PNEUMÁTICO
 	- Apertar conexões e substituir mangueiras ressecadas
 	- Ajustar válvulas de fluxo de ar
 	- Testar vazamentos com água e sabão
-    - PAINEL IHM:
+    - PAINEL IHM
 	- Realizar backup do software (LaserCAD)
 
 [Chiller]
@@ -70,20 +70,20 @@ PREDITIVA:
     - Vistoria da bomba hidráulica (ouvir ruídos ou vibração excessiva)
     - Limpeza da ventoinha quando detectar sujeira na água ou elevação da temperatura normal da água
 CORRETIVA:
-    - Água do chiller quente demais:
+    - Água do chiller quente demais
 	- Verificar se a energia está instável
 	- Verificar se o sistema de ventilação está limpo e funcionando normalmente
 	- Verificar se o termopar está indicando uma temperatura errada
 	- Verificar se o cortador a laser está produzindo mais calor do que o chiller consegue dissipar
 	- Garanta que a temperatura ambiente esteja abaixo dos 40°C
-    - Condensando água em seu exterior:
+    - Condensando água em seu exterior
 	- Aumentar a temperatura do reservatório.
 PROCEDIMENTOS DE MANUTENÇÃO:
-    - ÁGUA E FUNCIONAMENTO:
+    - ÁGUA E FUNCIONAMENTO
 	- Trocar água destilada
 
 [Levantamento de custos]
-PEÇA/COMPONENTES:
+PEÇA/COMPONENTES
 	- Espelhos (Conjunto)  R$ 120,00 a 150,00
 	- Lente do laser  R$ 200,00 a 350,00
 	- Correias  R$ 60,00 a 120,00
