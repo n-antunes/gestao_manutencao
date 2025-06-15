@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_icon=":gear:", page_title="Gestão da Manutenção", layout="wide")
 
-caminho = "manutencao.txt"
+caminho = "manutencao_final.txt"
 
 @st.cache_data
 def ler_manutencao(caminho):
