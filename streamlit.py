@@ -4,7 +4,7 @@ st.set_page_config(page_icon=":gear:", page_title="Gestão da Manutenção", lay
 
 caminho = "manutencao_final.txt"
 
-@st.cache_data
+# @st.cache_data
 def ler_manutencao(caminho):
     with open(caminho, 'r', encoding='utf-8') as f:
         linhas = f.readlines()
