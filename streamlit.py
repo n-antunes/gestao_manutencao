@@ -28,7 +28,7 @@ def ler_manutencao(caminho):
         elif linha.startswith("        - ") and subtipo_atual:  # 8 espaços + "-"
             instrucao = linha.strip()[2:].strip()
             dados[maquina_atual][tipo_atual][subtipo_atual].append(instrucao)
-        elif linha.startswith("    ") and tipo_atual == "PREVENTIVA":
+        elif linha.startswith("    ") and tipo_atual == "PREVENTIVA" or "PROCEDIMENTOS DE MANUTENÇÃO":
             subtipo_atual = linha.strip().replace(":", "").upper()
             if subtipo_atual:
                 dados[maquina_atual][tipo_atual][subtipo_atual] = []
