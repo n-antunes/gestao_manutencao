@@ -83,7 +83,7 @@ PROCEDIMENTOS DE MANUTENÇÃO:
 	- Trocar água destilada
 
 [Levantamento de custos]
-PEÇA/COMPONENTES
+PEÇA/COMPONENTES:
 	- Espelhos (Conjunto)  R$ 120,00 a 150,00
 	- Lente do laser  R$ 200,00 a 350,00
 	- Correias  R$ 60,00 a 120,00
