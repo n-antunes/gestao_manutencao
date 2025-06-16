@@ -8,23 +8,23 @@ PREVENTIVA:
     SEMANAL:
         - Limpar espelhos e lentes
         - Testar alinhamento
-	- Checar mangueiras e conexões
+        - Checar mangueiras e conexões
     MENSAL:
-	- Lubrificar Trilhos
-	- Inspecionar Correias
-	- Limpar filtros
-	- Inspecionar acoplamentos
+        - Lubrificar Trilhos
+        - Inspecionar Correias
+        - Limpar filtros
+        - Inspecionar acoplamentos
     TRIMESTRAL:
-	- Verificar motores
-	- Testar válvulas pneumáticas
-	- Checar dutos e Coifas
-	- Revisar painel e IHM
+        - Verificar motores
+        - Testar válvulas pneumáticas
+        - Checar dutos e Coifas
+        - Revisar painel e IHM
     SEMESTRAL:
-	- Limpeza profunda
-	- Verificação completa do sistema óptico e pneumático
+        - Limpeza profunda
+        - Verificação completa do sistema óptico e pneumático
     ANUAL:
-	- Revisão geral
-	- Troca de peças com desgaste recorrente
+        - Revisão geral
+        - Troca de peças com desgaste recorrente
 PREDITIVA:
     - Alinhamento dos espelhos quando detectada falha no corte
     - Monitoramento de ruídos e vibrações
@@ -35,31 +35,31 @@ CORRETIVA:
     - Substituição após rompimento
     - Substituição do motor após falha na inicialização
 PROCEDIMENTOS DE MANUTENÇÃO:
-    - SISTEMA ÓPTICO
-	- Limpar com álcool isopropílico e cotonete
-	- Alinhar manualmente com testes de feixe
-    - SISTEMA DE MOVIMENTAÇÃO
-	- Lubrificar trilhos com óleo específico
-	- Substituir correias com desgaste visível
-    - SISTEMA DE EXAUSTÃO
-	- Remover e limpar filtros com ar comprimido
-	- Inspecionar obstruções nos dutos
-	- Lavar a coifa
-    - SISTEMA PNEUMÁTICO
-	- Apertar conexões e substituir mangueiras ressecadas
-	- Ajustar válvulas de fluxo de ar
-	- Testar vazamentos com água e sabão
-    - PAINEL IHM
-	- Realizar backup do software (LaserCAD)
+    SISTEMA ÓPTICO:
+        - Limpar com álcool isopropílico e cotonete
+        - Alinhar manualmente com testes de feixe
+    SISTEMA DE MOVIMENTAÇÃO:
+        - Lubrificar trilhos com óleo específico
+        - Substituir correias com desgaste visível
+    SISTEMA DE EXAUSTÃO:
+        - Remover e limpar filtros com ar comprimido
+        - Inspecionar obstruções nos dutos
+        - Lavar a coifa
+    SISTEMA PNEUMÁTICO:
+        - Apertar conexões e substituir mangueiras ressecadas
+        - Ajustar válvulas de fluxo de ar
+        - Testar vazamentos com água e sabão
+    PAINEL IHM:
+        - Realizar backup do software (LaserCAD)
 
 [Chiller]
 PREVENTIVA:
     DIÁRIA:
         - Reabastecer o reservatório de água
         - Certificar que o equipamento está com a quantidade adequada de água limpa e destilada
-	- Confirmar se os dutos de água estão corretamente conectados à maquina
-	- Verificar o duto para que não ocorra obstruções ou vazamentos
-	- Garantir que não haja obstrução na ventoinha e nem na entrada e saída da ventilação
+        - Confirmar se os dutos de água estão corretamente conectados à maquina
+        - Verificar o duto para que não ocorra obstruções ou vazamentos
+        - Garantir que não haja obstrução na ventoinha e nem na entrada e saída da ventilação
     SEMANAL:
         - Verificar conexões
         - Limpeza da ventoinha e da grelha de ventilação
@@ -71,20 +71,20 @@ PREDITIVA:
     - Limpeza da ventoinha quando detectar sujeira na água ou elevação da temperatura normal da água
 CORRETIVA:
     - Água do chiller quente demais
-	- Verificar se a energia está instável
-	- Verificar se o sistema de ventilação está limpo e funcionando normalmente
-	- Verificar se o termopar está indicando uma temperatura errada
-	- Verificar se o cortador a laser está produzindo mais calor do que o chiller consegue dissipar
-	- Garanta que a temperatura ambiente esteja abaixo dos 40°C
+        - Verificar se a energia está instável
+        - Verificar se o sistema de ventilação está limpo e funcionando normalmente
+        - Verificar se o termopar está indicando uma temperatura errada
+        - Verificar se o cortador a laser está produzindo mais calor do que o chiller consegue dissipar
+        - Garanta que a temperatura ambiente esteja abaixo dos 40°C
     - Condensando água em seu exterior
-	- Aumentar a temperatura do reservatório.
+        - Aumentar a temperatura do reservatório.
 PROCEDIMENTOS DE MANUTENÇÃO:
-    - ÁGUA E FUNCIONAMENTO
-	- Trocar água destilada
+    ÁGUA E FUNCIONAMENTO:
+        - Trocar água destilada
 
 [Levantamento de custos]
 PEÇA/COMPONENTES:
-	- Espelhos (Conjunto)  R$ 120,00 a 150,00
+	- Espelhos (Conjunto) R$ 120,00 a 150,00
 	- Lente do laser  R$ 200,00 a 350,00
 	- Correias  R$ 60,00 a 120,00
 	- Trilhos (Par)  R$ 200,00 a 400,00
