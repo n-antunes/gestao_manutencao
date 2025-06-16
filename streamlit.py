@@ -146,16 +146,6 @@ else:
                 st.markdown(f"• {item}")
     else:
         st.info("Nenhuma informação disponível para esta seleção.")
-
-    # Informações adicionais na sidebar
-    st.sidebar.markdown("---")
-    st.sidebar.info(
-        f"📊 **Estatísticas:**\n"
-        f"• Equipamentos cadastrados: {len(dados_manutencao)}\n"
-        f"• Tipos de informação: {len(tipos_disponiveis)}\n"
-        f"• Itens na seleção atual: {len(instrucoes) if instrucoes else 0}"
-    )
-
 # Footer
 st.markdown("---")
 st.markdown(
